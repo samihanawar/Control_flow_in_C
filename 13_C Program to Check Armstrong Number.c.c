@@ -5,6 +5,7 @@ int main()
  int num1,num2,num3,rem;
  printf("Enter the number:");
  scanf("%d", &num1);
+ //num1 and num2;
  num2=num1;
  num3=num1;
  int count=0;
